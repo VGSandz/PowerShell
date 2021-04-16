@@ -1,2 +1,3 @@
 # PowerShell
 Gallery
+- updated readme
